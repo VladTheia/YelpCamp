@@ -1,0 +1,15 @@
+#caption {
+    padding: 9px;
+}
+
+.border {
+    margin-bottom: 5px; 
+}
+
+#deleteForm {
+    display: inline;
+}
+
+.deleteForm {
+    display: inline;
+}
