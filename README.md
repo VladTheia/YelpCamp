@@ -2,25 +2,15 @@
 
 RESTful web application meant to be a Yelp copy for campgrounds.
 
-## Installation
+## Requirements
 
-```bash
-npm install
-sudo apt-get install mongodb
-```
+- Docker
+- docker-compose
 
 ## Usage
 
-In a terminal start the database client
-
 ```bash
-sudo service mongodb start
-```
-
-In other terminal start the server
-
-```bash
-node app.js
+docker-compose up
 ```
 
 Then open the browser on localhost:3000 and start using the app!
